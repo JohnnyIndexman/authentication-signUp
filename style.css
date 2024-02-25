@@ -170,7 +170,7 @@ input:focus {
 .message {
     color: rgb(255, 85, 85);
     position: absolute;
-    bottom: 95px;
+    bottom: 0px;
     display: none;
 }
 
