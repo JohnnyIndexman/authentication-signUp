@@ -42,6 +42,7 @@ form.addEventListener('submit', (e) => {
         small.style.display = 'block'
         small.textContent = 'Invalid input. Please enter a valid email!!'
     }
+
 });
 
 /*success function*/
